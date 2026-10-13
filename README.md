@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://black-operative.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-black--operative.github.io-black?style=for-the-badge" alt="Portfolio"></a>
-  <a href="https://www.linkedin.com/in/rudraksh-mishra-80a9a7258"><img src="https://img.shields.io/badge/LinkedIn-Rudraksh_Mishra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/rudrakshm"><img src="https://img.shields.io/badge/LinkedIn-Rudraksh_Mishra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://twitter.com/Rudrakshm04"><img src="https://img.shields.io/badge/X-@Rudrakshm04-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
 </p>
 
